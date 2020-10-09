@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from 'react';
 import { Animated, Text, View, Image } from 'react-native';
-import FadeInView from './FadeIn'
+import FadeInView from './reusables/FadeInView'
 
 export default function FadeInParent() {
     return (

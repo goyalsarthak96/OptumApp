@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { PureComponent } from 'react';
 import { StyleSheet, View, Image } from 'react-native';
-import FadeInView from '../FadeIn'
+import FadeInView from '../reusables/FadeInView'
 
 
 
